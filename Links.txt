@@ -1,0 +1,15 @@
+Hello Prof. Reza
+
+Here is the Link for video ;
+
+
+Here is the link for Github Account;
+https://github.com/fatihkgm/fashion_mnist
+
+Thank you sir.
+
+
+Note: i have uploaded two ipynb because when i recording i wanted to do it on scratch  but two questions gave errors.
+
+However i have already done tiwh the another file which is i already name it extra_ipynb file
+Please ignore if you done needed it.
